@@ -1,7 +1,7 @@
 # Standard Operating Procedures of Analytical Instruments in the CUI-104 lab #
 
 
-**Safe handling and disposal of chemicals**
+[**Safe handling and disposal of chemicals**](https://github.com/jenwvng/CUI104SOP/blob/main/Safe%20handling%20and%20disposal%20of%20chemicals.md)
 
 [**Glassware cleaning/Acid washing**](https://github.com/jenwvng/CUI104SOP/blob/main/Glassware%20cleaning.md) <br /><br />
 
