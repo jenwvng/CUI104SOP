@@ -3,7 +3,7 @@
 
 **Safe handling and disposal of chemicals**
 
-**Glassware cleaning/Acid washing** <br /><br />
+[**Glassware cleaning/Acid washing**](https://github.com/jenwvng/CUI104SOP/blob/main/Glassware%20cleaning.md) <br /><br />
 
 **SevenExcellence and InMotion**
 
